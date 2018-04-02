@@ -1,0 +1,4 @@
+#Mon Mar 19 22:31:14 IST 2018
+base.0=F\:\\android-vision-master\\visionSamples\\ocr-reader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

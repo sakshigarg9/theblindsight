@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\22f05328c822d01d1144040e3b5dbfe1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\da3ac0789efb6aa5ed376454f756ea5f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\0abab7f5b452d7a72f178434987e2bf5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9ab46030a0a7d3283ee054fe889c974d\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\60cd42461b18854ecaaeef15a593388f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\b21235be6cecb972dd0506cb93c83d2c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bcb309cab2259e1859ff15f86bb78f35\AndroidManifest.xml:2:1-11:12
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [com.android.support:design:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\22f05328c822d01d1144040e3b5dbfe1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\22f05328c822d01d1144040e3b5dbfe1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\da3ac0789efb6aa5ed376454f756ea5f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\da3ac0789efb6aa5ed376454f756ea5f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\0abab7f5b452d7a72f178434987e2bf5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\0abab7f5b452d7a72f178434987e2bf5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9ab46030a0a7d3283ee054fe889c974d\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9ab46030a0a7d3283ee054fe889c974d\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\60cd42461b18854ecaaeef15a593388f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\60cd42461b18854ecaaeef15a593388f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\b21235be6cecb972dd0506cb93c83d2c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\b21235be6cecb972dd0506cb93c83d2c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bcb309cab2259e1859ff15f86bb78f35\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bcb309cab2259e1859ff15f86bb78f35\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:15:9-40
+	android:hardwareAccelerated
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:18:9-20:35
+	android:value
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:20:13-32
+	android:name
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:19:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.DetectGesture
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:23:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:31:9-33:41
+	android:label
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:33:13-38
+	android:name
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:32:13-47
+activity#com.google.android.gms.samples.vision.ocrreader.EmotionDetection
+ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:34:9-63
+	android:name
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml:34:19-51
+uses-sdk
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\22f05328c822d01d1144040e3b5dbfe1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\22f05328c822d01d1144040e3b5dbfe1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\da3ac0789efb6aa5ed376454f756ea5f\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\da3ac0789efb6aa5ed376454f756ea5f\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\0abab7f5b452d7a72f178434987e2bf5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\0abab7f5b452d7a72f178434987e2bf5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9ab46030a0a7d3283ee054fe889c974d\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9ab46030a0a7d3283ee054fe889c974d\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\60cd42461b18854ecaaeef15a593388f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\60cd42461b18854ecaaeef15a593388f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\b21235be6cecb972dd0506cb93c83d2c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\b21235be6cecb972dd0506cb93c83d2c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bcb309cab2259e1859ff15f86bb78f35\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bcb309cab2259e1859ff15f86bb78f35\AndroidManifest.xml:5:5-7:41
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+		ADDED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android-vision-master\visionSamples\ocr-reader\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\b2e0eb5cb1928093d3b72f8a7bc00f1e\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9ab46030a0a7d3283ee054fe889c974d\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9ab46030a0a7d3283ee054fe889c974d\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\shivangi pandey\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9ab46030a0a7d3283ee054fe889c974d\AndroidManifest.xml:22:13-58
